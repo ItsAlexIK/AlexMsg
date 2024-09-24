@@ -4,6 +4,7 @@
 ![Version](https://img.shields.io/badge/version-0.1-blue)
 
 AlexMsg is a simple messaging application that allows users to register, log in, send messages, and view their message history through a console interface. It utilizes a web API for handling user accounts and messages, providing a straightforward way to communicate.
+
 (Just a heads-up: don’t take it seriously; this is a random application I was working on!)
 
 ## Features
