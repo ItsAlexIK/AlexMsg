@@ -103,7 +103,3 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 - [Requests](https://docs.python-requests.org/en/master/) - For handling HTTP requests.
 - [Termcolor](https://pypi.org/project/termcolor/) - For colored terminal text.
-
-## Social Media :mailbox_with_no_mail:
-[![TikTok](https://img.shields.io/badge/-TikTok-69C9D0?style=flat-square&logo=tiktok&link=https://www.tiktok.com/@itsalexik)](https://www.tiktok.com/@itsalexik)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&link=https://www.instagram.com/itsa1exik/)](https://www.instagram.com/itsa1exik/)
